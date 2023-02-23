@@ -1,1 +1,1 @@
-# This site is live at https://freshteacher.tech/Fresh-Teacher-Technologies/
+# This site is live at https://freshteacher.software/Fresh-Teacher-Technologies/
